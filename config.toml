@@ -46,3 +46,8 @@ theme = 'smol'
         name = "mail"
         url = "mailto:srnt@mailbox.org"
         weight = 2 
+
+    [[menu.footer]]
+        name = "rss"
+        url = "/index.xml"
+        weight = 3 
