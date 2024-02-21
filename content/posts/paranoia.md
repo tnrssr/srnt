@@ -2,7 +2,6 @@
 title: "The case for paranoia in the world"
 date: 2024-02-21T17:29:33+01:00
 type: posts
-draft: true
 categories:
   - meta
 tags:
